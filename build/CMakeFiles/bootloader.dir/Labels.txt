@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/CMakeFiles/bootloader
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/CMakeFiles/bootloader.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/CMakeFiles/bootloader-complete.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+E:/WORK/ObjectLab/busy_lamp/Busy_Lamp_FW/MBI5153_ICN2012_ESP32S3/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
