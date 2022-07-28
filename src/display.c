@@ -358,41 +358,41 @@ uint16_t zaneprazdneny [512] = {
     o, o, o, o, o, o, o, o,     l, o, l, o, l, o, l, o}; 
 
 uint16_t one_h [512] = {
-    o, l, o, o, l, l, l, l,     o, o, o, o, o, o, o, o,
-    o, l, o, o, l, o, o, l,     o, o, o, o, o, o, o, o,
-    o, l, o, o, l, o, o, l,     o, o, o, o, o, o, o, o,
-    o, o, l, l, o, o, o, l,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, l, l, l, l, l, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, l, o, o,     o, o, o, o, o, o, o, o,
-    o, l, l, l, l, l, o, o,     o, o, o, o, o, o, o, o,
+    l, o, o, o, o, o, l, o,     o, o, o, o, o, o, o, o,
+    l, o, o, l, o, o, l, o,     o, o, o, o, o, o, o, o,
+    l, o, o, l, o, o, l, o,     o, o, o, o, o, o, o, o,
+    o, l, l, o, l, l, o, o,     o, o, o, o, o, o, o, o,
+    o, o, o, o, o, o, o, o,     l, l, o, o, o, o, l, l,
+    l, l, l, l, l, o, o, o,     l, o, l, o, o, l, l, l,
+    o, o, o, o, l, o, o, o,     l, o, l, l, l, o, l, l,
+    l, l, l, l, l, o, o, o,     l, o, o, l, l, l, l, l,
 
-    o, o, o, o, o, l, o, o,     o, o, o, o, o, o, o, o,
-    o, l, l, l, l, o, o, o,     o, o, o, o, o, o, o, o,
+    o, o, o, o, l, o, o, o,     l, o, l, o, o, l, l, l,
+    l, l, l, l, o, o, o, o,     l, l, o, o, o, o, l, l,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, l, l, l, l, l, o, l,     o, o, o, o, o, o, o, o,
+    l, l, l, l, l, o, l, o,     o, o, o, o, o, o, o, o,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, l, l, l, l, l, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, l, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, l, o, o,     o, o, o, o, o, o, o, o,
+    l, l, l, l, l, o, o, o,     o, o, o, o, o, o, o, o,
+    o, o, o, o, l, o, o, o,     o, o, o, o, o, o, o, o,
+    o, o, o, o, l, o, o, o,     o, o, o, o, o, o, o, o,
 
-    o, l, l, l, l, o, o, o,     l, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     l, l, l, l, l, l, l, o,
+    l, l, l, l, o, o, o, o,     o, l, o, o, o, o, o, o,
+    o, o, o, o, o, o, o, o,     o, l, l, l, l, l, l, l,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
+    o, o, o, o, o, o, o, o,     o, l, l, l, l, l, l, l,
+    o, o, o, o, o, o, o, o,     o, o, o, l, o, o, o, o,
+    o, o, o, o, o, o, o, o,     o, o, o, l, o, o, o, o,
+    o, o, o, o, o, o, o, o,     o, o, o, o, l, l, l, l,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     o, o, o, l, l, l, l, o,
-    o, o, o, o, o, o, o, o,     o, o, l, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     o, o, l, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     l, l, l, l, l, l, l, o,
 
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     l, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     l, l, l, l, l, l, l, o,
-    o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
-    o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o}; 
+    o, o, o, o, o, o, o, o,     o, l, o, o, o, l, l, l,
+    o, o, o, o, o, o, o, o,     o, l, o, o, l, o, o, l,
+    o, o, o, o, o, o, o, o,     o, l, o, o, l, o, o, l,
+    o, o, o, o, o, o, o, o,     o, o, l, l, o, o, o, l,
+    o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o};
 
 uint16_t busy [512] = {
     o, o, o, o, o, o, o, o,     o, o, o, o, o, o, o, o,
@@ -730,7 +730,7 @@ uint16_t pivo [512] = {
 
 static const rmt_item32_t morse_esp[] = 
 {
-    {{{ 512, 1}}}
+    {{{ 513, 1}}}
 };
 
 
@@ -741,10 +741,10 @@ void Display_init ()
     MBI_gpio_init();
     soft_reset();
     PreActive();
-    mbi_configuration(ghost_elimination_OFF,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_1);
-    mbi_configuration(ghost_elimination_OFF,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_1);
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2);
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2);
     reg1=1;
-    mbi_configuration(ghost_elimination_OFF,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2); 
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2); 
 }
 
 void rmt_tx_init(void)
