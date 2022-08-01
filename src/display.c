@@ -730,7 +730,7 @@ uint16_t pivo [512] = {
 
 static const rmt_item32_t morse_esp[] = 
 {
-    {{{ 513, 1}}}
+    {{{ 257, 1}}}
 };
 
 
@@ -741,10 +741,10 @@ void Display_init ()
     MBI_gpio_init();
     soft_reset();
     PreActive();
-    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2);
-    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2);
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_ON,current_4);
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_ON,current_3);
     reg1=1;
-    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_OFF,current_2); 
+    mbi_configuration(ghost_elimination_ON,line_num_32,gray_scale_14,gclk_multiplier_ON,current_2); 
 }
 
 void rmt_tx_init(void)

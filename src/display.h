@@ -38,11 +38,13 @@
 #define line_num_32             31  //количество линий 32
 #define line_num_1              0   //количество линий 1
 #define current_1               15  //ток на светодиоде
-#define current_2               30  //ток на светодиоде
+#define current_2               63  //ток на светодиоде
+#define current_3               35  //ток на светодиоде
+#define current_4               20  //ток на светодиоде
 
 #define clock_delay             0
 
-#define l                   65532  
+#define l                   65535  
 #define o                   0 
 
 #define RMT_TX_CHANNEL RMT_CHANNEL_0
